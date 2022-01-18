@@ -1,0 +1,30 @@
+{
+  "name": "ecommerceapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.6",
+    "nodemon": "^2.0.15",
+    "stripe": "^8.197.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsingh000/ecommerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rsingh000/ecommerce/issues"
+  },
+  "homepage": "https://github.com/rsingh000/ecommerce#readme",
+  "description": ""
+}
